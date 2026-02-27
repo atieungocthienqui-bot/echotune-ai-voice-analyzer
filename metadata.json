@@ -1,0 +1,7 @@
+{
+  "name": "EchoTune",
+  "description": "AI-powered vocal practice and song recognition platform running in the browser.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
